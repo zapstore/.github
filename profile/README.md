@@ -18,7 +18,7 @@ In due course, there will be a self-serving, permissionless way to upload your A
 
 ### Bootstrapping & Centralization
 
-On day one, Zap.store will "sign" APK on other devs behalf. Yes this is a centralized decision.
+On day one, Zap.store will "sign" APK on other devs behalf. Yes this is a centralizing action designed to bootstrap Zap Store. Devs can claim and prove ownership by cryptographically signing their app releases.
 
 ### Platforms
 

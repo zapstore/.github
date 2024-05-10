@@ -16,6 +16,8 @@ For devs, you can prove ownership of your APK by cryptographically signing said 
 
 In due course, there will be a self-serving, permissionless way to upload your APK to Zap.Store. See https://zap.store/developers, and join the dev chat here: https://t.me/+Azeu1bePFNtkYWMx.
 
+For sample nostr events, see https://github.com/zapstore/zapstore/wiki/Sample-app-events.
+
 ### Bootstrapping & Centralization
 
 On day one, Zap.store will "sign" APK on other devs behalf. Yes this is a centralizing action designed to bootstrap Zap Store. Devs can claim and prove ownership by cryptographically signing their app releases.

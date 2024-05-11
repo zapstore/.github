@@ -25,4 +25,5 @@ On day one, Zap.store will "sign" APK on other devs behalf. Yes this is a centra
 ### Platforms
 
 Android 0.1 is [released](https://github.com/zapstore/zapstore/releases).
-Web/desktop soon™️.
+
+Web/desktop, PWAs, DMGs, AppImages, IPA  soon™️. Not all Android architectures supported today.

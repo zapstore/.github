@@ -28,4 +28,8 @@ If you would like your app added to zapstore, or you would like to suggest anoth
 
 Android version is [released](https://github.com/zapstore/zapstore/releases).
 
-Desktop, PWAs, DMGs, AppImages, IPA  soon™️. Only Android `arm64-v8a` architecture supported today.
+Github repos having a latest release with an APK file are supported.
+
+Only Android `arm64-v8a` architecture supported today.
+
+Desktop, PWAs, DMGs, AppImages, IPA  soon™️. 

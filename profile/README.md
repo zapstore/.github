@@ -22,6 +22,8 @@ For sample nostr events, see https://github.com/zapstore/zapstore/wiki/Sample-ap
 
 On day one, zap.store will nostr-sign APKs on other devs behalf. Yes this is a centralizing action designed to bootstrap zap.store. Devs can claim and prove ownership by cryptographically signing their app releases.
 
+If you would like your app added to zapstore, or you would like to suggest another dev's app to be added to zap.store DM [Fran](https://njump.me/npub1wf4pufsucer5va8g9p0rj5dnhvfeh6d8w0g6eayaep5dhps6rsgs43dgh9), or create a [github issue](https://github.com/zapstore/zapstore/issues).
+
 ### Platforms
 
 Android version is [released](https://github.com/zapstore/zapstore/releases).

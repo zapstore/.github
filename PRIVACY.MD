@@ -27,7 +27,7 @@ Yes. wss://relay.zap.store.
 _How does zapstore know which app versions are installed on the user's device?_
 Android allows querying for this information with a permission bundled in the app. 
 
-_is there "delete all my info" functionality?
+_is there "delete all my info" functionality?_
 No personal information is stored. A button to remove local storage will be available soon.
 
 ### Questions, Feedback, and Discussion

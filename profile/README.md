@@ -33,3 +33,7 @@ Github repos having a latest release with an APK file are supported.
 Only Android `arm64-v8a` architecture supported today.
 
 Desktop, PWAs, DMGs, AppImages, IPA  soon™️. 
+
+### Privacy
+
+Read https://github.com/zapstore/.github/blob/main/PRIVACY.MD

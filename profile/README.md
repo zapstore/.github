@@ -1,7 +1,5 @@
 ## Welcome to zap.store!
 
-zap.store is the creation of mad genius [franzap](https://njump.me/npub1wf4pufsucer5va8g9p0rj5dnhvfeh6d8w0g6eayaep5dhps6rsgs43dgh9).
-
 zap.store is a permissionless app store, which is powered by your friends.
 
 Built on top of [nostr](https://github.com/nostr-protocol/nostr) zap.store allows you to check if your friend Alice follows, recommends, or perhaps has verified a particular app's SHA256 hash. 
